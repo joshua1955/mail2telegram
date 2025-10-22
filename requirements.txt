@@ -2,7 +2,7 @@ certifi==2023.7.22
 chardet==3.0.4
 easyimap==0.6.3
 gunicorn==20.0.4
-idna==2.9
+idna==3.7
 PySocks==1.7.1
 pyTelegramBotAPI==3.6.7
 requests==2.31.0
